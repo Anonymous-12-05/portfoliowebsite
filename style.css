@@ -46,7 +46,7 @@
     color: gray;
 }
 .background{
-    background: white url('background.png');
+    background: #f5f6f4 url('background.png');
     background-size: cover;
     background-blend-mode:darken ;
 }
